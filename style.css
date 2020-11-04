@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+body {
+  background: #00c462;
+  color: #FFF;
+  font-family: 'Henny Penny', cursive;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.content {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+ 
+ 
+.content h2 {
+  text-align: left;
+}
+
+ul {
+  font-family: 'Helvetica', sans-serif;
+}
+ 
+a, a:visited {
+  color: white;
+}
+
+a:hover {
+  color: pink;
+}
+
+#defaultCanvas0 {
+  margin: 0 auto;
+  display: block;
+}
